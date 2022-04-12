@@ -22,8 +22,8 @@ End the program and close the output image windows.
 
 ## Program:
 ```python
-# Developed By: Sherwin Roger R.D
-# Register Number: 212220230046
+# Developed By: Lishali Ramamoorthy 
+# Register Number: 212220230028
 # i) Convert BGR and RGB to HSV and GRAY
 import cv2
 color_image = cv2.imread('images.png')
